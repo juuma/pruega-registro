@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Roboto;
+    src: url(Font/Roboto.zip);
+}
+body {
+    background-color: #1A1423;
+    color: #AB8476;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.titulo {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+.registro {
+    background-color: #3D314A;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #96705B;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+    color: white;
+}
